@@ -1,0 +1,16 @@
+{
+  "title": "Adventures of Dorenthal",
+  "id": "adventures-of-dorenthal",
+  "system": "pf2e",
+  "joinTheme": "default",
+  "coreVersion": "13.350",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "7.8.0",
+  "lastPlayed": "Sun Aug 09 2026 16:57:22 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 52336,
+  "description": "",
+  "flags": {}
+}
