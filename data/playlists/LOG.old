@@ -1,3 +1,4 @@
-2026/08/09-16:53:59.568 50a8 Recovering log #86
-2026/08/09-16:53:59.571 50a8 Delete type=0 #86
-2026/08/09-16:53:59.571 50a8 Delete type=3 #84
+2026/08/09-17:13:26.779 8260 Log #91: 0 ops saved to Table #92 OK
+2026/08/09-17:13:26.780 8260 Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/playlists/000091.log: OK
+2026/08/09-17:13:26.785 8260 Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/playlists/MANIFEST-000090: OK
+2026/08/09-17:13:26.794 8260 **** Repaired leveldb C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****

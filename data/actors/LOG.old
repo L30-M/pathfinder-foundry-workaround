@@ -1,3 +1,5 @@
-2026/08/09-16:53:59.319 50a8 Recovering log #112
-2026/08/09-16:53:59.322 50a8 Delete type=0 #112
-2026/08/09-16:53:59.322 50a8 Delete type=3 #108
+2026/08/09-17:13:26.426 602c Log #118: 0 ops saved to Table #119 OK
+2026/08/09-17:13:26.426 602c Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/actors/000118.log: OK
+2026/08/09-17:13:26.428 602c Table #114: 556 entries OK
+2026/08/09-17:13:26.433 602c Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/actors/MANIFEST-000117: OK
+2026/08/09-17:13:26.440 602c **** Repaired leveldb C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/actors; recovered 1 files; 578531 bytes. Some data may have been lost. ****

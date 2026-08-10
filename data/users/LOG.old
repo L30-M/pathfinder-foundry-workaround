@@ -1,3 +1,6 @@
-2026/08/09-16:53:59.659 4cf0 Recovering log #109
-2026/08/09-16:53:59.663 4cf0 Delete type=0 #109
-2026/08/09-16:53:59.663 4cf0 Delete type=3 #106
+2026/08/09-17:13:26.957 7f3c Log #115: 1 ops saved to Table #116 OK
+2026/08/09-17:13:26.957 7f3c Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/users/000115.log: OK
+2026/08/09-17:13:26.963 7f3c Table #111: 5 entries OK
+2026/08/09-17:13:26.963 7f3c Table #116: 1 entries OK
+2026/08/09-17:13:26.968 7f3c Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/users/MANIFEST-000114: OK
+2026/08/09-17:13:26.975 7f3c **** Repaired leveldb C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/users; recovered 2 files; 3416 bytes. Some data may have been lost. ****

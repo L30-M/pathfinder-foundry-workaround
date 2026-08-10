@@ -1,3 +1,7 @@
-2026/08/09-16:53:59.411 4cf0 Recovering log #94
-2026/08/09-16:53:59.414 4cf0 Delete type=0 #94
-2026/08/09-16:53:59.414 4cf0 Delete type=3 #91
+2026/08/09-17:13:26.546 8054 Log #99: 0 ops saved to Table #100 OK
+2026/08/09-17:13:26.546 8054 Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/combats/000099.log: OK
+2026/08/09-17:13:26.550 8054 Table #81: 1 entries OK
+2026/08/09-17:13:26.554 8054 Table #89: 2 entries OK
+2026/08/09-17:13:26.555 8054 Table #92: 45 entries OK
+2026/08/09-17:13:26.560 8054 Archiving C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/combats/MANIFEST-000098: OK
+2026/08/09-17:13:26.566 8054 **** Repaired leveldb C:/Users/Leo/AppData/Local/FoundryVTT/Data/worlds/adventures-of-dorenthal/data/combats; recovered 3 files; 5627 bytes. Some data may have been lost. ****
