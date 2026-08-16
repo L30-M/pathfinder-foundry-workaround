@@ -1,0 +1,25 @@
+{
+  "title": "Adventures of Dorenthal",
+  "id": "world.adventures-of-dorenthal.2026-08-16.1786865396060",
+  "system": "pf2e",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "",
+  "version": "0",
+  "relationships": {
+    "systems": [],
+    "requires": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 3227579,
+  "note": "8-16-26 backup",
+  "snapshotId": null,
+  "originalSize": 4318181,
+  "createdAt": 1786865396062,
+  "packageId": "adventures-of-dorenthal",
+  "type": "world"
+}
